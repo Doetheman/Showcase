@@ -1,0 +1,39 @@
+COMP163	22623	Kim	R	0800	HINES100	Intro Computer Programming
+COMP167	22627	Bryant	MWF	1100	HINES100	Computer Program Design
+COMP180	20481	Esterline	MWF	0900	GRAHA210	Discrete Structures
+COMP200	20871	Brown	T	1500	TBD	Computer Sci Sophomore Colloq
+COMP267	21510	Hinton	MW	1800	TBD	Data Base Design
+COMP280	20028	Brown	TR	0930	MCNAI129	Data Structures
+COMP285	20426	Carr	MWF	1100	MCNAI205	Analysis of Algorithms
+COMP300	20998	Brown	R	1300	TBD	Computer Science Jr Colloquium
+COMP320	21508	Nowaczyk-Pioro	TR	1500	MCNAI130	Fundamentals of Cyber Security
+COMP322	20569	Esterline	MW	1800	MCNAI129	Internet Systems
+COMP350	21509	Carr	MWF	1200	MCNAI205	Operating Systems
+COMP360	20031	Esterline	MWF	1400	GRAHA210	Programming Languages
+COMP365	20032	Xu	MWF	1000	MCNAI129	Program Methodologies & Concepts
+COMP375	20482	Limbrick	MWF	1300	GRAHA210	Computer Architecture & Org
+COMP385	20033	Kim	TR	1100	MCNAI129	Theory of Computing
+COMP390	20035	Nowaczyk-Pioro	online	online	online	Social Implications of Computing
+COMP397	20414	Bryant	TBD	TBD	TBD	Co-Op Experience I
+COMP410	21511	Roy	TR	0930	GRAHA210	Software Engineering
+COMP445	22756	Roy	TR	1700	TBD	Introduction to AI
+COMP476	20036	Xu	MWF	0900	GRAHA208	Networked Computer Systems
+COMP494	22376	Bryant	TBD	TBD	TBD	Independent Study
+COMP495	22070	Carr	TBD	TBD	TBD	Senior Project I
+COMP496	21512	Anwar	TR	0930	MCNAI205	Senior Project II
+COMP621	20038	Yu	MWF	1400	MCNAI129	Web Security
+COMP681	20098	Esterline	MW	1500	MCNAI129	Formal Methods
+COMP710	20570	Roy	TR	1500	GRAHA208	Specifications and Design
+COMP727	20571	Yuan	online	online	online	Secure Software Engineering
+COMP775	22641	Xu	MWF	1400	MCNAI130	Advance Design Analysis Algorithms
+COMP796	many	many	TBD	TBD	TBD	Master's Project
+COMP797	many	many	TBD	TBD	TBD	Master's Thesis
+COMP799	20330	Bryant	TBD	TBD	TBD	Continuation of Research
+COMP892	22759	Anwar	TR	1100	TBD	Doctoral Research Methods
+COMP895	22075	Anwar	TR	1300	MCNAI132	Usable Security
+COMP991	20999	Yu	TBD	TBD	TBD	Doctoral Qualifying Exam
+COMP993	22074	Esterline	TBD	TBD	TBD	Doctoral Supervised Teaching
+COMP994	22302	Bryant	TBD	TBD	TBD	Doctoral Research Examination
+COMP995	21099	Bryant	TBD	TBD	TBD	Doctoral Preliminary Exam
+COMP997	21097	Bryant	TBD	TBD	TBD	Doctoral Dissertation
+
